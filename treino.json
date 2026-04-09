@@ -1,0 +1,32 @@
+[
+    {
+        "Data": "09/04/2026",
+        "Nome do Treino": "rf",
+        "Exercicios": [
+            {
+                "Exercicio": "f",
+                "Series": 4,
+                "Repeticoes": 4,
+                "Carga": 4
+            },
+            {
+                "Exercicio": "444",
+                "Series": 444,
+                "Repeticoes": 444,
+                "Carga": 444
+            }
+        ]
+    },
+    {
+        "Data": "09/04/2026",
+        "Nome do Treino": "1",
+        "Exercicios": [
+            {
+                "Exercicio": "1",
+                "Series": 1,
+                "Repeticoes": 1,
+                "Carga": 1
+            }
+        ]
+    }
+]
