@@ -1,4 +1,4 @@
-from userAction import addWorkOut, getWorkOut, editWorkOut, deleteWorkOut
+from workoutService import addWorkOut, getWorkOut, editWorkOut, deleteWorkOut
 from utils import isNumber, yesNo, emptyArray, deleteValidation, validation
 from menus import menuNoWorkOut, menuEdit, mainMenu
 
