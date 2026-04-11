@@ -1,35 +1,5 @@
 [
     {
-        "Data": "09/04/2026",
-        "Nome do Treino": "rf",
-        "Exercicios": [
-            {
-                "Exercicio": "f",
-                "Series": 4,
-                "Repeticoes": 4,
-                "Carga": 4
-            },
-            {
-                "Exercicio": "444",
-                "Series": 444,
-                "Repeticoes": 444,
-                "Carga": 444
-            }
-        ]
-    },
-    {
-        "Data": "09/04/2026",
-        "Nome do Treino": "1",
-        "Exercicios": [
-            {
-                "Exercicio": "1",
-                "Series": 1,
-                "Repeticoes": 1,
-                "Carga": 1
-            }
-        ]
-    },
-    {
         "Data": "10/04/2026",
         "Nome do Treino": "d",
         "Exercicios": [
@@ -50,6 +20,67 @@
                 "Series": 7,
                 "Repeticoes": 7,
                 "Carga": 7
+            }
+        ]
+    },
+    {
+        "Data": "10/04/2026",
+        "Nome do Treino": "novo controller",
+        "Exercicios": [
+            {
+                "Exercicio": "10",
+                "Series": 10,
+                "Repeticoes": 10,
+                "Carga": 10
+            }
+        ]
+    },
+    {
+        "Data": "10/04/2026",
+        "Nome do Treino": "controller",
+        "Exercicios": [
+            {
+                "Exercicio": "11",
+                "Series": 11,
+                "Repeticoes": 11,
+                "Carga": 11,
+                "1": "deu bom?"
+            },
+            {
+                "Exercicio": "controooooller",
+                "Series": 4,
+                "Repeticoes": 4,
+                "Carga": 4
+            }
+        ]
+    },
+    {
+        "Data": "10/04/2026",
+        "Nome do Treino": "teste FINAL",
+        "Exercicios": [
+            {
+                "Exercicio": "final",
+                "Series": 700,
+                "Repeticoes": 99000,
+                "Carga": 1
+            },
+            {
+                "Exercicio": "j",
+                "Series": 1,
+                "Repeticoes": 1,
+                "Carga": 3
+            }
+        ]
+    },
+    {
+        "Data": "10/04/2026",
+        "Nome do Treino": "q",
+        "Exercicios": [
+            {
+                "Exercicio": "q",
+                "Series": 33,
+                "Repeticoes": 33,
+                "Carga": 33
             }
         ]
     }
