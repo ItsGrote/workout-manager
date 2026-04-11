@@ -12,13 +12,13 @@ A workout manager built with Python for creating, editing, and tracking your wor
 
 ## ▶️ How to Run:
 ```bash
- python3 quest.py
+ python3 main.py
 ```
 
 ## 📁 Structure:
 - controller.py -> main logic
 - menus.py -> user intarface (CLI)
-- userAction.py -> user actions
+- workoutServices.py -> user actions
 - loadAndSave.py -> data persistence (JSON)
 - utils.py -> helper functions
 - treino.json -> database
